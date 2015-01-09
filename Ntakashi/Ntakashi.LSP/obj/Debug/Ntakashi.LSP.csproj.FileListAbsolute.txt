@@ -1,0 +1,6 @@
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\bin\Debug\Ntakashi.LSP.exe.config
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\bin\Debug\Ntakashi.LSP.exe
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\bin\Debug\Ntakashi.LSP.pdb
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\obj\Debug\Ntakashi.LSP.csprojResolveAssemblyReference.cache
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\obj\Debug\Ntakashi.LSP.exe
+c:\users\nicolas.silva\documents\visual studio 2013\Projects\Ntakashi\Ntakashi.LSP\obj\Debug\Ntakashi.LSP.pdb
