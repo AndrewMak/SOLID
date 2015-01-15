@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Ntakashi.OCP", "Ntakash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 - Ntakashi.ISP", "Ntakashi.ISP\4 - Ntakashi.ISP.csproj", "{9529E81E-D519-49F6-98E8-660B7D119E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - Ntakashi.DIP", "Ntakashi.DIP\5 - Ntakashi.DIP.csproj", "{1159C781-0F1E-4CCD-B67D-4493F2BE8BDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9529E81E-D519-49F6-98E8-660B7D119E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9529E81E-D519-49F6-98E8-660B7D119E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9529E81E-D519-49F6-98E8-660B7D119E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1159C781-0F1E-4CCD-B67D-4493F2BE8BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1159C781-0F1E-4CCD-B67D-4493F2BE8BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1159C781-0F1E-4CCD-B67D-4493F2BE8BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1159C781-0F1E-4CCD-B67D-4493F2BE8BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
