@@ -41,9 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Filme.cs" />
-    <Compile Include="IProduto.cs" />
-    <Compile Include="Poster.cs" />
+    <Compile Include="Bicicleta.cs" />
+    <Compile Include="Carro.cs" />
+    <Compile Include="IVeiculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
